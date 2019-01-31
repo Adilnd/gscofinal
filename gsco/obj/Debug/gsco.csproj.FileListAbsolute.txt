@@ -1,0 +1,5 @@
+C:\Users\itnewvision\Documents\Visual Studio 2008\Projects\gsco\gsco\bin\gsco.dll
+C:\Users\itnewvision\Documents\Visual Studio 2008\Projects\gsco\gsco\bin\gsco.pdb
+C:\Users\itnewvision\Documents\Visual Studio 2008\Projects\gsco\gsco\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\itnewvision\Documents\Visual Studio 2008\Projects\gsco\gsco\obj\Debug\gsco.dll
+C:\Users\itnewvision\Documents\Visual Studio 2008\Projects\gsco\gsco\obj\Debug\gsco.pdb
